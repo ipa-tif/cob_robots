@@ -5,7 +5,7 @@ default_vel: 1.0
 
 # single positions
 home: [[0.0]]
-front: [[0.0]]
+front: [[-0.785]]
 back: [[3.14]]
 left: [[1.57]]
 right: [[-1.57]]
